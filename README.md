@@ -1,14 +1,16 @@
 # DIKWP-EPOCH OS v1.0
 
+Created by Yucong Duan (段玉聪).
+
 ## First-Person Indexed Experience, Causal World Models, and an Open Experience Commons
 
-**EPOCH = Experience · Purpose · Outcome · Causality · History**
+EPOCH = Experience · Purpose · Outcome · Causality · History
 
 DIKWP-EPOCH OS is the missing experience runtime for the broader DIKWP open-source ecosystem. Existing assets can express semantics, purpose, evidence, agent execution, source migration, replication, and maintainer succession. EPOCH turns their interaction with an environment into a shared, auditable learning object.
 
 Its central object, `ExperienceCell`, records an agent-indexed pre-state, observation, public prediction, proposed action, purpose and authorization gate, actual action, environment consequence, grounded reward vector, DIKWP-R semantic mesh, world-model delta, and append-only lineage hash.
 
-“First-person indexed” does **not** mean that phenomenal consciousness has been demonstrated. It only means that a record is attached to a particular agent instance, its purpose contract, temporal history, action, and consequence.
+“First-person indexed” does not mean that phenomenal consciousness has been demonstrated. It only means that a record is attached to a particular agent instance, its purpose contract, temporal history, action, and consequence.
 
 ```text
 Environment → Purpose Contract → Pre-action Gate → Action
